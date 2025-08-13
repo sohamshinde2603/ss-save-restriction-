@@ -8,27 +8,27 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "6024888",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "c78489a1b52a6dac192f2c1b6eb30435",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Bot token from @BotFather",
-      "value": "",
+      "value": "8190599513:AAEGV1kZH6DVELwENqpsSqXqxTzAdPgrgbE",
       "required": true
     },
     "MONGO_DB": {
       "description": "MongoDB connection URL (https://cloud.mongodb.com)",
-      "value": "",
+      "value": "mongodb+srv://sohamshinde1012:QxGznSIp1XgPf3sM@cluster0.xkgz1yn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "OWNER_ID": {
       "description": "User ID(s) to be set as bot owner(s), separated by space (e.g., 1234 5678)",
-      "value": "",
+      "value": "1786342431",
       "required": true
     },
     "DB_NAME": {
@@ -73,7 +73,7 @@
     },
     "FREEMIUM_LIMIT": {
       "description": "Limit for freemium users (in MB or desired unit)",
-      "value": "0",
+      "value": "10000",
       "required": false
     },
     "PREMIUM_LIMIT": {
@@ -98,3 +98,4 @@
   ],
   "stack": "container"
 }
+
